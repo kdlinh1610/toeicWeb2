@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "1FsPsRuYzEWXBC+o4/unoGWYB19BnBrWOQjf3Ejvm/o=",
+  "Source": "ToeicWeb.Server",
+  "BasePath": "_content/ToeicWeb.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\webToeic\\toeicweb.client\\toeicweb.client.esproj",
+      "Version": 2,
+      "Source": "toeicweb.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
